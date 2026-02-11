@@ -39,7 +39,7 @@ Windows often assigns generic names to USB cameras like "USB2.0 HD UVC WebCam" o
 ### Option 2: Build from Source
 1. Clone this repository:
 ```bash
-   git clone https://github.com/yourusername/camera-renamer.git
+   git clone https://github.com/raccoonfacts/camera-renamer.git
 ```
 2. Open `Camera_Renamer.sln` in Visual Studio
 3. Restore NuGet packages (DirectShowLib should auto-restore)
