@@ -1,6 +1,6 @@
-# Camera Renamer
+# Camera Renamer Tool
 
-A Windows desktop application that allows you to rename your webcams and cameras for OBS, Streamlabs, Discord, Twitch, and more. It also changes the name for the Device Manager by modifying Windows registry entries.
+A Free Windows desktop application that allows you to rename your webcams and cameras for OBS, Streamlabs, Discord, Twitch, and more. It also changes the name for the Device Manager by modifying Windows registry entries. This will remain free. 
 
 ## 🎯 Purpose
 
