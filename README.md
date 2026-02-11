@@ -171,4 +171,4 @@ If you encounter issues or have questions:
 
 ---
 
-**Made with ❤️ for everyone tired of generic camera names**
+**Made with ❤️ for everyone tired of generic camera names if you build anything cool with this please show me!!**
