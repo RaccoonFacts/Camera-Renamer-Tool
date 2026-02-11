@@ -117,6 +117,7 @@ The application updates the camera's FriendlyName in three registry locations:
 <img width="460" height="422" alt="image" src="https://github.com/user-attachments/assets/f1d7e2cd-3c0d-4e20-87ae-5a4ca45e3e9a" />
 <img width="933" height="501" alt="image" src="https://github.com/user-attachments/assets/fd4b4023-1f67-4757-a34a-93e4e581dda0" />
 <img width="466" height="431" alt="image" src="https://github.com/user-attachments/assets/905acf9c-7148-449b-b626-16b91145dd69" />
+<img width="578" height="555" alt="image" src="https://github.com/user-attachments/assets/c6b0ec41-94c9-4640-a96f-19b1292b54c7" />
 
 
 ## 🔧 Troubleshooting
